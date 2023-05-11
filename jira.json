@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_10",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "titleText": "Jira critical defects",
+    "mainText": "There are 612 critical issues in JIRA."
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_10",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "mainText": "Shelby. In the last 20 days 10 issues were created and 15 were resolved",
+    "titleText": "Open vs closed rate "
+  }
+]

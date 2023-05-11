@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_10",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "titleText": "Lunch",
+    "mainText": "Lunch is about to be served in the first floor kitchen for all Hackathon participants."
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_10",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "mainText": "Uber is available for all participants too tired to drive home.",
+    "titleText": "Hackathon "
+  }
+]

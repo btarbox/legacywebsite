@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "titleText": "Jenkins build",
+    "mainText": "Jenkins build is doing fine, 29 builds have completed recently.  No builds have failed in the last 24 hours."
+   },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2017-06-16T00:00:00.0Z",
+    "titleText": "TeamCity build",
+    "mainText": "TeamCity builds are blocked by a build failure 20 minutes ago "
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+    "updateDate": "2017-06-16T00:00:00.0Z",
+    "titleText": " CTS Production ",
+    "mainText": "There are no customer facing CTS issues"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
+    "updateDate": "2017-06-16T00:00:00.0Z",
+    "titleText": "DevOps",
+    "mainText": "There have been 3 production deployments today and 32 production deployments this week"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_5",
+    "updateDate": "2017-06-16T00:00:00.0Z",
+    "titleText": "Disclaimer",
+    "mainText": "All of this status is currently hardcoded but imagine if was true?  We just need more time and some glue code; but think of the possibilities"
+  }
+]

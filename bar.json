@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_10",
+    "updateDate": "2017-06-15T00:00:00.0Z",
+    "titleText": "Code Collaborator",
+    "mainText": "There are 7 open inspections. 12 inspections were completed in the last 24 hours"
+   },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_11",
+    "updateDate": "2017-06-16T00:00:00.0Z",
+    "titleText": "Food",
+    "mainText": "There are donuts, coffee cake, croisants and many other carbohydrates in the 3rd floor kitchen "
+  }
+]
